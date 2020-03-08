@@ -16,6 +16,7 @@ const Icon = props => {
     }
     return (
         <View style={containerStyles}>
+
             <Image source={source} style={iconStyles} />
         </View>
     )
